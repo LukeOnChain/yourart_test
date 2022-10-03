@@ -1,0 +1,9 @@
+.artwork__main {
+  max-width: 1280px;
+  user-select: none;
+}
+
+.artwork__page {
+  margin-top: 5%;
+  margin-left: 20px;
+}

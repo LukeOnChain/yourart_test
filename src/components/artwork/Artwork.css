@@ -1,0 +1,23 @@
+.artdetail {
+  max-width: 220px;
+}
+.artdetail__title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.artdetail__artistname {
+  color: rgb(235, 189, 154);
+}
+
+.artdetail__artistcountry {
+  color: rgb(203, 203, 203);
+}
+
+.arview {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: 20px;
+}
